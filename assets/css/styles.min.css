@@ -734,6 +734,7 @@
   opacity: 0.5;
 }
 #login-bg {
+  background-color: white;
   background-image: url("../img/imported_images/login-bg.jpg");
   background-position: center;
   background-size: cover;
