@@ -771,11 +771,11 @@ a:hover {
   --bs-btn-disabled-border-color: #c0a68d;
 }
 #register-bg {
-  background: url("/assets/img/imported_images/register-bg.jpeg?h=e29ce5dce521965ce955cda0da89ff05")
+  background: url("../img/imported_images/register-bg.jpeg")
     center/cover;
 }
 #forgot-pass-bg {
-  background: url("/assets/img/imported_images/forgot-pass-bg.jpg?h=e3de41b8642a711412597f73b94827be")
+  background: url("../img/imported_images/forgot-pass-bg.jpg")
     top/cover;
 }
 #btn-forgot-pass {
