@@ -734,7 +734,7 @@
   opacity: 0.5;
 }
 #login-bg {
-  background-image: url("/assets/img/imported_images/login-bg.jpg?h=37ffc6181e18ea465478391354ed4323");
+  background-image: url("../img/imported_images/login-bg.jpg");
   background-position: center;
   background-size: cover;
 }
